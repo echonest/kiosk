@@ -1,7 +1,7 @@
 kiosk
 =====
 
-A musical information Kiosk powered by [The Echo Nest](http://the.echonest.com/) from 1984 to run on your Apple //c.
+A musical information Kiosk powered by [The Echo Nest](http://the.echonest.com/) from 1984 to run on your Apple //c. It will only show information about bands from 1984 or before.
 
 ![Moby](https://p.twimg.com/AxZGm8vCEAAxATm.jpg:small)
 
