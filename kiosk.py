@@ -13,10 +13,12 @@ from bisect import bisect
 import urllib2 as urllib
 from cStringIO import StringIO
 
+# Config-things
 pyechonest.config.ECHO_NEST_API_KEY="YOUR_KEY_HERE"
-npyscreen.disableColor()
 _TIME_PER_PICTURE = 90
 _THE_YEAR_IS = 1984
+
+npyscreen.disableColor()
 
 def ascii(text, errors='ignore'):
     return text.encode('ascii', errors)
